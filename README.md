@@ -18,7 +18,6 @@ It is also **responsive**, meaning it adapts to different screen sizes.
 
 
 
-https://github.com/user-attachments/assets/e485b987-2ca4-4eeb-8116-ee53f03a1a99
 
 https://github.com/user-attachments/assets/e485b987-2ca4-4eeb-8116-ee53f03a1a99
 ## Status
