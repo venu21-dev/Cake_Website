@@ -17,6 +17,10 @@ It is also **responsive**, meaning it adapts to different screen sizes.
 <p><b>Demo/ Preview of the Website:
 
 
+
+https://github.com/user-attachments/assets/e485b987-2ca4-4eeb-8116-ee53f03a1a99
+
+https://github.com/user-attachments/assets/e485b987-2ca4-4eeb-8116-ee53f03a1a99
 ## Status
 
 The website is still a work in progress. I created it as an exercise, and there is still a lot to improve or add. <p>
